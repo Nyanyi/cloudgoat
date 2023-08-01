@@ -1,3 +1,5 @@
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Nyanyi/cloudgoat/badge)](https://securityscorecards.dev/viewer/?uri=github.com/Nyanyi/cloudgoat)
+
 # CloudGoat
 Rhino Security Labs' "Vulnerable by Design" AWS infrastructure setup tool
 
